@@ -29,7 +29,7 @@
     
     bash install.sh
     
-    sudo tools
+    sudo hackingtool
 
 After all steps are completed, run the following command ---> **root@kaliLinux:~** **tools**
 
