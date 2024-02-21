@@ -19,19 +19,19 @@
 
 #### THIS TOOL MUST BE RUN AS ROOT !!! run these following commands below ONE AT A TIME 
 
-    git clone https://github.com/fazin-ahamed/hackingtool.git
+    git clone https://github.com/fazin-ahamed/tools.git
     
-    chmod -R 755 hackingtool  
+    chmod -R 755 tools  
     
-    cd hackingtool
+    cd tools
     
     sudo pip3 install -r requirements.txt
     
     bash install.sh
     
-    sudo hackingtool
+    sudo tools
 
-After all steps are completed, run the following command ---> **root@kaliLinux:~** **hackingtool**
+After all steps are completed, run the following command ---> **root@kaliLinux:~** **tools**
 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
