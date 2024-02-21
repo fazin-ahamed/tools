@@ -15,7 +15,7 @@
 ![](https://github.com/Z4nzu/hackingtool/blob/master/images/A2.png)
 ![](https://github.com/Z4nzu/hackingtool/blob/master/images/A4.png)
 
-## Installation guide for Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
+## Installation guide for Linux
 
 #### THIS TOOL MUST BE RUN AS ROOT !!! run these following commands below ONE AT A TIME 
 
